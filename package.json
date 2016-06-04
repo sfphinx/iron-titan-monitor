@@ -1,0 +1,12 @@
+{
+  "name": "iron-titan-monitor",
+  "version": "1.0.0",
+  "description": "Helps monitor your villages.dat file in real-time to know if you are building your iron titan farm correctly",
+  "main": "monitor.js",
+  "author": "Sfphinx <sfphinx@sfphinx.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "0.0.8",
+    "nbt": "^0.6.0"
+  }
+}
